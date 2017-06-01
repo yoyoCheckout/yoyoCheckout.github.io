@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	font-size:100%;
+}
+
+.divSt{
+	margin:0 auto;
+	width: 80%;
+	text-align: left;
+	background-color: #CAE1FF;
+	
+}
+
+.h1{
+	font-size: 120%;
+}
+
+.h2{
+	font-size: 150%;
+}
